@@ -1,1 +1,22 @@
-{"Cono":"SI","Media Luna":"SI","Dona":"SI","Dona con Relleno":"SI","Alfafor Especial":"SI"}
+{
+  "Cono": "SI",
+  "Media Luna": "SI",
+  "Dona": "SI",
+  "Dona con Relleno": "SI",
+  "Alfafor Especial": "SI",
+  "Empanada": "SI",
+  "Queque": "SI",
+  "Pastel de Chocolate": "SI",
+  "Pastel con Choclo": "SI",
+  "Rollo": "SI",
+  "Frappe con Frutilla": "SI",
+  "Frappe con Oreo": "SI",
+  "Frappe con Frutilla y Mora": "SI",
+  "Frapuchino con 3 en 1": "SI",
+  "Frapuchino con 2 en 1": "SI",
+  "Frapuchino con Chocolate": "SI",
+  "Gano Malteada con 2 en 1": "SI",
+  "Capuchino": "SI",
+  "Capuchino con Sobre Entero": "SI",
+  "Malteada": "SI"
+}
